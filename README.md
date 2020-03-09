@@ -65,6 +65,10 @@ Liste de quelques plugin web front end
 
 - slick js carousel [https://kenwheeler.github.io/slick/](https://kenwheeler.github.io/slick/)
 
+## Calendrier
+
+- calendar jquery [https://www.jqueryscript.net/time-clock/Monthly-Event-Calendar-pbcalendar.html](https://www.jqueryscript.net/time-clock/Monthly-Event-Calendar-pbcalendar.html)
+
 
 ## After effet
 
