@@ -58,6 +58,12 @@ Liste de quelques plugin web front end
 ## Modal Jquery
 
 - Responsive jQuery modal window plugin  [http://veno.es/venobox/](http://veno.es/venobox/)
+- Github Modal [https://github.com/nicolafranchini/VenoBox](https://github.com/nicolafranchini/VenoBox)
+
+
+## Carousel
+
+- slick js carousel [https://kenwheeler.github.io/slick/](https://kenwheeler.github.io/slick/)
 
 
 ## After effet
